@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/10364153/135057517-40b7a995-1fea-413d-
 
 ## Optional 
 
-[Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) for my custom [Zagreus Wallpaper](https://steamcommunity.com/sharedfiles/filedetails/?id=2576396971)
+[Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) for my custom [Zagreus Wallpaper](https://steamcommunity.com/sharedfiles/filedetails/?id=2576396971) featuring sweet audio visualizer & minimal animations~
 
 ## Usage
 Bars pulls data from [HWInfo](https://www.hwinfo.com/) Plugin
@@ -46,5 +46,12 @@ _Configure Sensors > HWInfo Gadgets > Tick These_
 - [GPU] GPU Core Load
 
 Muslim Prayer Meter uses [Solat Jakim API](https://api.azanpro.com/reference/times/today)
+
+## Credits
+
+[SupergiantGames](https://www.supergiantgames.com/) for this masterpiece.
+
+[RainmeterForums](https://forum.rainmeter.net/) for providing TONs of resources.
+
 
 
