@@ -1,0 +1,239 @@
+<quote> Stand amongst the ashes of a trillion dead souls and ask the ghosts if honor matters. The silence is your answer.
+<author> Javik
+<game> Mass Effect 3
+
+<quote> Some trees flourish, others die. Some cattle grow strong, others are taken by wolves. Some men are born rich enough and dumb enough to enjoy their lives. Ain't nothing fair.
+<author> John Marston
+<game> Red Dead Redemption
+
+<quote> If you're not scared of death, how can you value life?
+<author> Sam Porter Bridges
+<game> Death Stranding
+
+<quote> We are perpetually trapped in a never-ending spiral of life and death.
+<author> 2B
+<game> NieR:Automata
+
+<quote> Evil is Evil. Lesser, greater, middling. Makes no difference. The degree is arbitary. The definition's blurred. If I'm to choose between one evil and another. I'd rather not choose at all.
+<author> Geralt of Rivia
+<game> The Witcher 3: Wild Hunt
+
+<quote> Even in dark times, we cannot relinquish the things that make us human.
+<author> Khan
+<game> Metro 2033
+
+<quote> I survived because the fire inside burned brighter than the fire around me.
+<author> Joshua Graham
+<game> Fallout: New Vegas
+
+<quote> Don't be sorry, be better.
+<author> Kratos
+<game> God of War
+
+<quote> What is better? To be born good or to overcome your evil nature through great effort?
+<author> Paarthunax
+<game> Skyrim
+
+<quote> Unfortunately, killing is one of those things that gets easier the more you do it.
+<author> Solid Snake
+<game> Metal Gear Solid
+
+<quote> If you find yourself in a hole, the first thing to do is stop diggin'.
+<author> John Marston
+<game> Red Dead Redemption
+
+<quote> One of these days you're going to land on something as stubborn as you are, and I don't do bits and pieces.
+<author> Sergeant Johnson
+<game> Halo
+
+<quote> Be loyal to what matters.
+<author> Arthur Morgan
+<game> Red Dead Redemption 2
+
+<quote> When a man with a singsong voice tells me to fuck off, it ALWAYS concerns me, boyo.
+<author> John Marston
+<game> Red Dead Redemption
+
+<quote> We're not tools of the government or anyone else. Fighting was the only thing I was good at, but at least I always fought for what I believed in.
+<author> Solid Snake
+<game> Metal Gear Solid
+
+<quote> We all need friends, old-timer. We die alone, but we live among men.
+<author> John Marston
+<game> Red Dead Redemption
+
+<quote> Everyone thinks they're the hero of their own story.
+<author> Handsome Jack
+<game>  Borderlands
+
+<quote> War is when the young and stupid are tricked by the old and bitter into killing each other.
+<author> Niko Bellic
+<game> Grand Theft Auto IV
+
+<quote> Science isn't about why - it's about why not.
+<author> Cave Johnson
+<game> Portal 2
+
+<quote> Wisdom is the offspring of Suffering and Time.
+<author> Emperor Izaro
+<game> Path of Exile
+
+
+<quote> We are the sum of our deeds, not our names.
+<author> Ramza Beoulve
+<game> Final Fantasy Tactics
+
+<quote> If our lives are already written, it would take a courageous man to change the script.
+<author> Alan Wake
+<game> Alan Wake
+
+<quote> What good is an intellect if you can't use it?
+<author> Raiden
+<game> Metal Gear Rising: Revengeance
+
+<quote> I looked for the truth. Found it. Didn't like it. Wish to hell I could forget it.
+<author> Alex Mercer
+<game> Prototype
+
+<quote> Technologies are invented to make our lives easier -- not our choices.
+<author> Adam Jensen
+<game> Deus Ex: Human Revolution
+
+
+<quote> Dream, not of what you are, but of what you want to be.
+<author> Margulis
+<game> Warframe
+
+<quote> It is a sign of strength, to cry out against fate, rather than to bow one's head and succumb.
+<author> Gabriel Angelos
+<game> Warhammer 40,000: Dawn of War 2
+
+
+<quote> Hatred and prejudice will never be eradicated. And the witch hunts will never be about witches. To have a scapegoat, that's the key.
+<author> Geralt of Rivia
+<game> The Witcher 3: Wild Hunt
+
+
+<quote> I may be but small, but I will die a colossus.
+<author> Ludleth of Courland
+<game> Dark Souls 3
+
+<quote> As life ebbs, terrible vistas of emptiness reveal themselves.
+<author> The Narrator
+<game> Darkest Dungeon
+
+<quote> The right man in the wrong place can make all the difference in the world.
+<author> G-Man
+<game> Half-Life 2
+
+<quote> Only under light does a flower bloom with beauty. A flower tainted with darkness is fated to wither away.
+<author> Endrance
+<game> .hack//G.U.
+
+<quote> Curiosity is essential to carving your own path through life. Get too curious, though, and it'll be a short walk.
+<author> Luxord
+<game> Kingdom Hearts 358/2 Days
+
+<quote> A man chooses, a slave obeys.
+<author> Andrew Ryan
+<game> Bioshock
+
+<quote> Nobody knows what's gonna happen at the end of the line, so you might as well enjoy the trip.
+<author> Manuel Calavera
+<game> Grim Fandango
+
+<quote> Closing your eyes forces you to look at the darkness inside.
+<author> Max Payne
+<game> The Fall of Max Payne
+
+<quote> Machines aren't capable of evil. Humans make them that way.
+<author> Lucca
+<game> Chrono Trigger
+
+<quote> The moment you close your eyes on the battlefield is the moment you never open them again.
+<author> Snake Eater
+<game> Metal Gear Solid
+
+<quote> There's nothing as dangerous as a crowd with the wrong idea.
+<author> Eder Teylecg
+<game> Pillars of Eternity
+
+<quote> I can't tell you to remember me, but I can't bear for you to forget me.
+<author> Mary
+<game> Silent Hill 2
+
+<quote> Remember those who have passed, and they will forever live on
+<author> Sein
+<game> Ori and the Blind Forest
+
+<quote> The hardest battles are fought in the mind, not with the sword.
+<author> Dillion
+<game> Hellblade: Senua's Sacrifice
+
+<quote> No matter who you are, bearing too much weight... Inevitably leads to the collapse of everything.
+<author> Don Juan
+<game> Hotline Miami
+
+<quote> Trust not a man who has betrayed his master, nor take him into your own service, lest he betray you too.
+<author>The Prince
+<game> Prince of Persia
+
+<quote> Some people are born to be monsters. Some jobs, only a monster can do.
+<author> Billiken
+<game>  Yakuza 0
+
+<quote> War is where the young and stupid are tricked by the old and bitter into killing each other.
+<author> Niko Bellic
+<game> Grand Theft Auto 4
+
+<quote> You don't have to save the world to find meaning in life... Sometimes, all you need is something simple, like someone to take care of.
+<author> Aigis
+<game> Persona 3
+
+<quote> Force answers force, war breeds war, and death only brings death. To break this vicious circle one must do more than act without any thought or doubt.
+<author> Khan
+<game> Metro 2033
+
+<quote> Men are but flesh and blood. They know their doom, but not the hour.
+<author> Uriel Septim VII
+<game> The Elder Scrolls 4: Oblivion
+
+<quote> Vengeance does not dull pain. It sustains it.... forever.
+<author> Celebrimbor
+<game> Middle-earth: Shadow of Mordor
+
+<quote> When the weak court death, they find it.
+<author> Grigori
+<game> Dragon's Dogma: Dark Arisen
+
+<quote> Even the good leaders make poor decisions, its the best leaders that take responsibility for them.
+<author> Kratos
+<game>  God of War
+
+<quote> A wife can make you twice the man you were on your own.
+<author> Bak
+<game> The Banner Saga 2
+
+<quote> Too many people have opinions on things they know nothing about. And the more ignorant they are, the more opinions they have.
+<author> Thomas Hildern
+<game> Fallout: New Vegas
+
+<quote> It's a funny thing, ambition. It can take one to sublime heights or harrowing depths. And sometimes they are one and the same.
+<author> Emily Kaldwin
+<game> Dishonored 2
+
+<quote> A strong man doesn't need to read the future. He makes his own.
+<author> Solid Snake
+<game> Metal Gear Solid
+
+<quote> Courage need not be remembered, for it is never forgotten.
+<author> Princess Zelda
+<game> Legend of Zelda: Breath of the Wild
+
+<quote> Excellence isn't an art, it's a habit. We are what we repeatedly do.
+<author> The Edge
+<game> Furi
+
+<quote> Part of growing up is doing what's best for the people you care about, even if sometimes, that means hurting someone else.
+<author> Lee Everett
+<game> The Walking Dead
