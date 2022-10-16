@@ -27,6 +27,12 @@ https://user-images.githubusercontent.com/10364153/135057517-40b7a995-1fea-413d-
 
 [HWInfo](https://www.hwinfo.com/download/) Installer (_.dll Plugin included in skin_)
 
+### Fonts Used
+
+[Spectral SC](https://www.1001freefonts.com/spectral-sc.font)
+[Caesar Dressing](https://www.1001fonts.com/caesar-dressing-font.html)
+[Algreya Sans](https://www.1001fonts.com/alegreya-sans-font.html)
+
 ## Optional 
 
 [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) for my custom [Zagreus Wallpaper](https://steamcommunity.com/sharedfiles/filedetails/?id=2576396971) featuring sweet audio visualizer & minimal animations~
