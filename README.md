@@ -38,12 +38,16 @@ HWInfo Gadget Sensor Reporting [Official Article](https://docs.rainmeter.net/tip
 
 _Configure Sensors > HWInfo Gadgets > Tick These_
 
+![image](https://user-images.githubusercontent.com/10364153/196033799-22967c5d-8fc2-4ded-b790-8622b9e178d8.png)
+
 - [System] Physical Memory Load
-- [CPU] Total CPU Usage
+- [CPU[#0]] Total CPU Usage
 - [Memory Timings] Memory Clock
 - [CPU[#0]] CPU Die (Average)
+- [CPU[#0]] Core Temperature (Average)
 - [Drive] Total Activity
-- [GPU] GPU Core Load
+- [GPU] GPU Temperature
+- [GPU] GPU Utilization
 
 Muslim Prayer Meter uses [Solat Jakim API](https://api.azanpro.com/reference/times/today)
 
