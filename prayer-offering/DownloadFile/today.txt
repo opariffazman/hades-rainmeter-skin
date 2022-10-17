@@ -1,1 +1,0 @@
-{"zone":"SGR01","start":"28-09-2021","end":"28-09-2021","locations":["Gombak","Hulu Selangor","Rawang","Hulu Langat","Sepang","Petaling","Shah Alam"],"prayer_times":{"date":"28-09-2021","datestamp":1632758400,"imsak":"05:44","subuh":"05:54","syuruk":"07:00","zohor":"13:07","asar":"16:16","maghrib":"19:09","isyak":"20:17"}}
